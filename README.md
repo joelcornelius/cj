@@ -1,7 +1,7 @@
 # cj
 
                           CJ USB Bootable
-                       Version 3, 29 June 2007
+                       Version 1, 10 November 2017
 
  Copyright (C) 2017 Free Software Foundation, Inc. 
  Everyone is permitted to copy and distribute verbatim copies
